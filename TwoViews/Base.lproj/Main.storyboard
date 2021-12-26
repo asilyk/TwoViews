@@ -31,7 +31,6 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="fau-wp-Mp7" secondAttribute="trailing" constant="57" id="ITm-C9-JpV"/>
                             <constraint firstItem="fxY-ZI-0PT" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="57" id="JP7-SE-dDN"/>
                             <constraint firstItem="fxY-ZI-0PT" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="56" id="Rga-UY-9Ug"/>
-                            <constraint firstItem="fau-wp-Mp7" firstAttribute="width" secondItem="fxY-ZI-0PT" secondAttribute="width" id="cC8-cR-H80"/>
                             <constraint firstItem="fau-wp-Mp7" firstAttribute="height" secondItem="fxY-ZI-0PT" secondAttribute="height" id="h4i-v1-YgB"/>
                             <constraint firstItem="fau-wp-Mp7" firstAttribute="top" secondItem="fxY-ZI-0PT" secondAttribute="bottom" constant="100" id="hjp-m7-9wQ"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="fau-wp-Mp7" secondAttribute="bottom" constant="62" id="jbu-qI-ro9"/>
